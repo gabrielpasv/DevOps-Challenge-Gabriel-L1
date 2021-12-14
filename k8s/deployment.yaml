@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: challenge1
+  name: challenge1
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: challenge1
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: challenge1
+    spec:
+      containers:
+      - image: gabrielpasv/devops-challenge-gabriel-l1
+        name: devops-challenge-gabriel-l1
+        resources: {}
