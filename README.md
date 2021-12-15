@@ -42,7 +42,7 @@ challenge1-c94944d59-2xdnj   1/1     Running   0          73s
 
 ## To Access
 
-To access the application, you can run the following to get the IP and port. Since I am using NodePort for this demo.
+To access the application, you can run the following to get the port and IP address. Since I am using NodePort for this demo.
 
 ```
 gabriel@gabriel-Inspiron:/tmp$ kubectl get svc
