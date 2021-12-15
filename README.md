@@ -9,6 +9,8 @@ If you want to build the application yourself, then you will need to have a dock
 
 1. Docker - [how do install docker](https://docs.docker.com/engine/install/)
 2. A docker Hub account - [create it here](https://hub.docker.com/signup)
+3. Minikube - [how to install minikube](https://minikube.sigs.k8s.io/docs/start/)
+4. kubectl - [how to install kubectl](https://kubernetes.io/docs/tasks/tools/)
 
 ## To build
 
