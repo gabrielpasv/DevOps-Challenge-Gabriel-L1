@@ -1,9 +1,14 @@
 
 # PlanA DevOps Challenge 1 - Resolution
 
-This is the resolution of the Plan A challenge located at https://github.com/Plan-A-Technologies/DevOps-Challenge-Level-1
+This is the resolution of the Plan A challenge 1 located [here](https://github.com/Plan-A-Technologies/DevOps-Challenge-Level-1)
 
-If you want to build yourself, then you will need to have a docker hub account and update *k8s/deployment.yaml* file with the correct docker image name.
+If you want to build the application yourself, then you will need to have a docker hub account and update *k8s/deployment.yaml* file with the correct docker image name.
+
+## Requirements
+
+1. Docker - [how do install docker](https://docs.docker.com/engine/install/)
+2. A docker Hub account - [create it here](https://hub.docker.com/signup)
 
 ## To build
 
